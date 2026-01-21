@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	color: firebrick;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;
+ }
+.novi blok{
+	background-color: azure;
+	padding: 20px;
+	margin: 20px;
+	width: 50%;
+	
+}
+h1, h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: black
+}
+span{color: chartreuse;}
+body{
+	background-image: url("slike/pozadina.jpg")
+}
+img{
+	height: 200px;
+}
